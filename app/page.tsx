@@ -192,11 +192,11 @@ export default function HomePage() {
             </div>
             <p className="text-slate-400 mb-4">AI-Powered Local Service Discovery</p>
             <div className="flex items-center justify-center space-x-6 text-sm text-slate-500">
-              <span>© 2024 Neptune</span>
+              <span>© 2025 Neptune</span>
               <span>•</span>
               <span>Powered by AI</span>
               <span>•</span>
-              <span>Made with ❤️</span>
+              <span>Made by Kiran Sala</span>
             </div>
           </div>
         </div>

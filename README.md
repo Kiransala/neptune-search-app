@@ -97,5 +97,3 @@ neptune-search-app/
 - [Google AI](https://ai.google.dev/)
 
 ---
-
-Built with ❤️ using modern web technologies 
